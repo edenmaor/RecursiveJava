@@ -1,0 +1,8 @@
+Deductions per File:
+-5.0  	FractalTree.java
+0.0   	GoldenRatio.java
+0.0   	Permutations.java
+0.0   	TTH.java
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Final Grade : 95
